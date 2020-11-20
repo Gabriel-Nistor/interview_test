@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(159, 193, 199);
+}
+.add_fruit_button {
+width: 70px;
+height: 40px;
+background-color: rgb(252, 201, 74);
+margin: 10px;
+}
+
+.fruit_container {
+    width: 300px;
+    height: 100px;
+    border: solid 1px black;
+    overflow-y: auto;
+}
+
+.delete_button {
+    margin-right: 30px;
+    float: right;
+    border: none;    
+}
